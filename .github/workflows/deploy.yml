@@ -20,7 +20,7 @@ jobs:
       - name: Upload site to Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .  # Adjust if your RocketCake files are in a subfolder
+          path: .  # Adjust if your RocketCake files exist in a subfolder
 
       - name: Deploy to GitHub Pages
         id: deployment
