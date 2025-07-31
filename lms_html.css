@@ -17,10 +17,10 @@ a:hover { color:#B2B3B4; }
 			#menu_630e7b5 .mobileEntry { display: block; } 
 			#menu_630e7b5 .normalEntry { display: none; } 
 		}
-#gallery_6568c366 div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
-#gallery_6568c366 div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
-@media only screen and (max-width:520px) { #gallery_6568c366 div.galleryimgcontainer { width: 50%; } } 
-@media only screen and (max-width:420px) { #gallery_6568c366 div.galleryimgcontainer { width: 100%; } } 
+#gallery_4555c7fd div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
+#gallery_4555c7fd div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
+@media only screen and (max-width:520px) { #gallery_4555c7fd div.galleryimgcontainer { width: 50%; } } 
+@media only screen and (max-width:420px) { #gallery_4555c7fd div.galleryimgcontainer { width: 100%; } } 
 body { background-color:#182929; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 #container_5017d9a9 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:123px; background:none;  }
@@ -72,7 +72,7 @@ body { background-color:#182929; padding:0;  margin: 0; }
 .textstyle15 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#D5FCFC; font-style:italic; font-weight:bold; line-height: 1.5;  }
 #container_4b3bc06b { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_4b3bc06b_padding { margin: 10px; display: block;  }
-#gallery_6568c366 { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
+#gallery_4555c7fd { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
 #container_4d5fc2df { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:84px; background:none;  }
 #container_4d5fc2df_padding { margin: 10px; display: block;  }
 #container_59e8d2f9 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:88%; min-height:68px; max-width:1200px; background:none; border: 2px solid #404040;  }
