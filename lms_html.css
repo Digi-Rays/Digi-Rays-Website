@@ -18,7 +18,7 @@ a:hover { color:#004040; }
 			#menu_4caed13e .normalEntry { display: none; } 
 		}
 #gallery_7972edd1 div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
-#gallery_7972edd1 div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
+#gallery_7972edd1 div.galleryimgcontainer img {  width: 100%;  height: auto; background-color:#D1D1D1; background: linear-gradient(to bottom, #000000, #D1D1D1);  } 
 @media only screen and (max-width:520px) { #gallery_7972edd1 div.galleryimgcontainer { width: 50%; } } 
 @media only screen and (max-width:420px) { #gallery_7972edd1 div.galleryimgcontainer { width: 100%; } } 
 body { background-color:#2B4444; padding:0;  margin: 0; }
@@ -41,6 +41,14 @@ body { background-color:#2B4444; padding:0;  margin: 0; }
 .menustyle6 { position:absolute; width:100px; height:34px; left:542px;  }
 .menustyle7 { position:absolute; width:100px; height:34px; left:642px;  }
 .textstyle5 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
+#container_732dc916 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_732dc916_padding { margin: 10px; display: block;  }
+#container_a4a5bc0 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_a4a5bc0_padding { margin: 10px; display: block;  }
+#container_60691e67 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_60691e67_padding { margin: 10px; display: block;  }
+#container_5a80de02 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_5a80de02_padding { margin: 10px; display: block;  }
 #container_5a2ec878 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:70px; max-width:1024px; background-color:#FFFFFF;  }
 #container_54be0f75 { vertical-align: top; position:relative; display: inline-block; width:78%; min-height:608px; max-width:800px; background:none;  }
 #container_54be0f75_padding { margin: 10px; display: block;  }
@@ -50,13 +58,19 @@ body { background-color:#2B4444; padding:0;  margin: 0; }
 .textstyle8 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-style:italic; font-weight:bold; line-height: 1.5;  }
 .textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 #container_6619a5d2 { vertical-align: top; position:relative; display: inline-block; width:97%; min-height:602px; max-width:1024px; background-color:#ECECEC;  }
-#gallery_7972edd1 { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
+#gallery_7972edd1 { overflow:hidden; position:absolute; left:3%; top:3%; width:95%; min-height:545px;  }
 .textstyle10 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold; line-height: 1.5;  }
 .textstyle11 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 #text_5f67cf61 { position:absolute; left:45%; top:3%; width:275px; height:72px; background:none;  }
 .textstyle12 { font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
 #text_46902890 { position:absolute; left:78%; top:3%; width:213px; height:77px; background:none;  }
 .textstyle13 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#3ABCBC;  }
+@media only screen and (max-width: 600px)
+{
+		#container_a4a5bc0 { width:100%;  }
+		#container_60691e67 { width:100%;  }
+		#container_5a80de02 { width:100%;  }
+}
 @media only screen and (max-width: 450px)
 {
 		#menu_4caed13e { width:100px;  }
