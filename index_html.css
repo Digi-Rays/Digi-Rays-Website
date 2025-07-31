@@ -17,12 +17,12 @@ a:hover { color:#B2B3B4; }
 			#menu_5db600f5 .mobileEntry { display: block; } 
 			#menu_5db600f5 .normalEntry { display: none; } 
 		}
-#button_ca04df8 { box-sizing: border-box; border-radius: 8px; position:absolute; left:69%; top:36%; width:150px; height:40px; background-color:#2B4444; border: 4px solid #3ABCBC;  }
-#button_ca04df8:hover { background-color:#FF0000; border-color:#000000;  }
-#button_ca04df8:hover span { color:#444444; }
-#button_174428cf { box-sizing: border-box; border-radius: 8px; position:absolute; left:82%; top:12%; width:150px; height:40px; background-color:#2B4444; border: 4px solid #1EBABA;  }
-#button_174428cf:hover { background-color:#FF0000; border-color:#000000;  }
-#button_174428cf:hover span { color:#444444; }
+#button_57cbc42 { box-sizing: border-box; border-radius: 8px; position:absolute; left:34%; top:100%; width:125px; height:32px; background-color:#2B4444; border: 4px solid #3ABCBC;  }
+#button_57cbc42:hover { background-color:#FF0000; border-color:#000000;  }
+#button_57cbc42:hover span { color:#444444; }
+#button_20a8cbd2 { box-sizing: border-box; border-radius: 8px; position:absolute; left:34%; top:96%; width:133px; height:40px; background-color:#2B4444; border: 4px solid #1EBABA;  }
+#button_20a8cbd2:hover { background-color:#FF0000; border-color:#000000;  }
+#button_20a8cbd2:hover span { color:#444444; }
 body { background-color:#182929; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 #container_72f2941a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:123px; background:none;  }
@@ -53,7 +53,7 @@ body { background-color:#182929; padding:0;  margin: 0; }
 .menustyle7 { position:absolute; width:100px; height:34px; left:642px;  }
 .textstyle6 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
 .textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#container_5376e9e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_5376e9e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:808px; background:none;  }
 #container_5376e9e_padding { margin: 10px; display: block;  }
 #container_2f213f42 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
 #container_2f213f42_padding { margin: 10px; display: block;  }
@@ -69,22 +69,24 @@ body { background-color:#182929; padding:0;  margin: 0; }
 .textstyle12 { font-size:14pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#3ABCBC; font-weight:bold; line-height: 1.5;  }
 .textstyle13 { font-size:14pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; line-height: 1.5;  }
 .textstyle14 { font-size:14pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF; line-height: 1.5;  }
-#container_65a73622 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:167px; background:none;  }
-#container_65a73622_padding { margin: 10px; display: block;  }
-#container_17435cc4 { vertical-align: top; position:relative; display: inline-block; width:51%; min-height:219px; background:none;  }
-#container_17435cc4_padding { margin: 10px; display: block;  }
+#container_29b270f6 { box-sizing: border-box; vertical-align: top; border-radius: 15px; position:relative; display: inline-block; width:100%; min-height:349px; background:none; border: 5px solid #404040;  }
+#container_29b270f6_padding { margin: 10px; display: block;  }
+#container_5ffddb07 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:229px; background:none;  }
+#container_5ffddb07_padding { margin: 10px; display: block;  }
+#img_5c37fd73 { position:absolute; left:6%; top:6%; width:85%; background:none; height:auto;  }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
 .textstyle15 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#3ABCBC; font-weight:bold;  }
-#container_a72823 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:260px; background:none;  }
-#container_a72823_padding { margin: 10px; display: block;  }
-#container_3072f033 { vertical-align: bottom; position:relative; display: inline-block; width:44%; min-height:190px; max-width:800px; background-color:#008080; background: linear-gradient(to bottom, #FFFFFF, #008080);  }
-#container_3072f033_padding { margin: 10px; display: block;  }
+#container_3e4a1efa { vertical-align: top; position:relative; display: inline-block; width:49%; min-height:228px; background:none;  }
+#container_3e4a1efa_padding { margin: 10px; display: block;  }
+#img_68e4b288 { position:absolute; left:5%; top:7%; width:79%; background:none; height:auto;  }
+#container_77e4faca { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:173px; background:none;  }
+#container_77e4faca_padding { margin: 10px; display: block;  }
+#container_26091ac5 { vertical-align: bottom; position:relative; display: inline-block; width:88%; min-height:130px; max-width:800px; background-color:#008080; background: linear-gradient(to bottom, #FFFFFF, #008080);  }
+#container_26091ac5_padding { margin: 10px; display: block;  }
 .textstyle16 { font-size:24pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#800000; line-height: 1.5;  }
 .textstyle17 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold; line-height: 1.5;  }
 .textstyle18 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; line-height: 1.5;  }
-#img_2ec4c19a { position:absolute; left:7%; top:2%; width:27%; background:none; height:auto;  }
-#img_33e103c { position:absolute; left:55%; top:1%; width:25%; background:none; height:auto;  }
 @media only screen and (max-width: 600px)
 {
 		#container_47280b96 { width:100%;  }
@@ -99,5 +101,6 @@ body { background-color:#182929; padding:0;  margin: 0; }
 {
 		#container_2f213f42 { width:100%;  }
 		#container_1ab19497 { width:100%;  }
-		#container_17435cc4 { width:100%;  }
+		#container_5ffddb07 { width:100%;  }
+		#container_3e4a1efa { width:100%;  }
 }
