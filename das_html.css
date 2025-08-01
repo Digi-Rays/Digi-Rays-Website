@@ -17,10 +17,10 @@ a:hover { color:#B2B3B4; }
 			#menu_4783d49a .mobileEntry { display: block; } 
 			#menu_4783d49a .normalEntry { display: none; } 
 		}
-#gallery_78d200fb div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
-#gallery_78d200fb div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
-@media only screen and (max-width:520px) { #gallery_78d200fb div.galleryimgcontainer { width: 50%; } } 
-@media only screen and (max-width:420px) { #gallery_78d200fb div.galleryimgcontainer { width: 100%; } } 
+#gallery_3f3985df div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
+#gallery_3f3985df div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
+@media only screen and (max-width:520px) { #gallery_3f3985df div.galleryimgcontainer { width: 50%; } } 
+@media only screen and (max-width:420px) { #gallery_3f3985df div.galleryimgcontainer { width: 100%; } } 
 body { background-color:#182929; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 #container_4d40003 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:123px; background:none;  }
@@ -72,7 +72,7 @@ body { background-color:#182929; padding:0;  margin: 0; }
 .ulstyle1 { margin:0; font-size: 12pt; color:#D5FCFC;  }
 #container_48b87519 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_48b87519_padding { margin: 10px; display: block;  }
-#gallery_78d200fb { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
+#gallery_3f3985df { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
 #container_3ed5e511 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:84px; background:none;  }
 #container_3ed5e511_padding { margin: 10px; display: block;  }
 #container_678ab703 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:88%; min-height:68px; max-width:1200px; background:none; border: 2px solid #404040;  }
